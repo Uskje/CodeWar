@@ -24,9 +24,11 @@ Notes:
 
 ### Given Code
 
-```
+```python
+
 def points(games):
     pass
+    
 ```
 
 ---
