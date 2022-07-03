@@ -35,7 +35,7 @@ def points(games):
 
 ### Solution
 
-```
+```python
 def points(games):
     s = []
     for i in games:
