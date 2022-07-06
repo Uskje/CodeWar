@@ -28,8 +28,9 @@ def merge_arrays(arr1, arr2):
 ```python
 def merge_arrays(arr1, arr2):
     arr3 = arr1 + arr2
-    arr3.sort()
+    
     arr3 = list(set(arr3))
+    arr3.sort()
             
     return arr3
 ```
